@@ -18,6 +18,7 @@ lcov.info
 .DS_Store
 Thumbs.db
 .idea/
-.vscode/
 *.swp
 *.swo
+config.bat
+node_modules
